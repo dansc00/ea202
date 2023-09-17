@@ -1,1 +1,1 @@
-# ea202
+Repositório da disciplina Engenharia de Software
